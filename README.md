@@ -1,4 +1,2 @@
 # potato-pig
-Potato pig (useless code)
-
-yep yep haha
+This is a TBD project, similar to the game **reigns**
