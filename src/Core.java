@@ -10,7 +10,7 @@ public class Core {
 		//Testing Testing
 		
 		//Did it work this time?
-		
+		//kek, found out how...
 		console.close();
 	}
 }
