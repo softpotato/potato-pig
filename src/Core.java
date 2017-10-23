@@ -9,6 +9,8 @@ public class Core {
 		System.out.println("Test");
 		//Testing Testing
 		
+		//Did it work this time?
+		
 		console.close();
 	}
 }
